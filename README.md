@@ -84,8 +84,8 @@ Original paper by  Hongbin Zhang, Xiang Zhong,...:
 
 [BCU-Net: Bridging ConvNeXt and U-Net for Medical Image Segmentation](https://xxx)
 
-<<<<<<< HEAD
+
 ![network architecture](/img/network.tiff)
 =======
 ![network architecture](/network.tiff)
->>>>>>> 7e954af8fa9e3d3ede2505e9875cc56cb0809da8
+
