@@ -87,5 +87,5 @@ Original paper by  Hongbin Zhang, Xiang Zhong,...:
 
 ![network architecture](/img/network.tiff)
 =======
-![network architecture](/network.tiff)
+
 
